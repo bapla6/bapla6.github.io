@@ -100976,7 +100976,7 @@ n.toString
 s=A.h("tischkicker")
 r=new A.by(B.f,1,B.V)
 q=A.a([new A.b0(2,B.K,A.af(B.i.a6(127.5),158,158,158),new A.t(0,2),5)],t.O)
-A.bkW(A.A(A.a([A.D(p,A.aG(B.l,p,new A.oW(1,A.a8H(A.m5("images/BP6.png",p,p,p)),p),o*0.05),B.h,p,p,new A.aL(B.B,p,new A.bx(r,r,r,r),p,q,p,B.ab),p,p,p,p,p,p,p,p),A.m(p,o*0.01,p),A.pt(!1,!0,A.j("tischkicker.app",p,p,p,A.B(p,p,B.f,p,p,p,p,p,p,p,p,o*0.017,p,B.aN,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,!0,p,p,p,p,p,p,p,p,p,p,new A.aHk(),p,p,p,p,p)],t.t),B.e,B.j,B.c),"robert@tischkicker.app",s,"v2.3.0",n)},
+A.bkW(A.A(A.a([A.D(p,A.aG(B.l,p,new A.oW(1,A.a8H(A.m5("images/BP6.png",p,p,p)),p),o*0.05),B.h,p,p,new A.aL(B.B,p,new A.bx(r,r,r,r),p,q,p,B.ab),p,p,p,p,p,p,p,p),A.m(p,o*0.01,p),A.pt(!1,!0,A.j("tischkicker.app",p,p,p,A.B(p,p,B.f,p,p,p,p,p,p,p,p,o*0.017,p,B.aN,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,!0,p,p,p,p,p,p,p,p,p,p,new A.aHk(),p,p,p,p,p)],t.t),B.e,B.j,B.c),"robert@tischkicker.app",s,"v3.0.0",n)},
 agH(){var s=A.jO(new A.b1(25,25)),r=this.c
 r.toString
 A.fO(null,new A.aHj(),r,!1,new A.cX(s,B.L),t.z)},
