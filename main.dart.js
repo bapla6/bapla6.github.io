@@ -100090,7 +100090,7 @@ o.a.p(0,k,j)
 p=A.b(i,i.gn().i(0,"leagues")).j(0,p)
 j=p.a
 j=A.b(p.b,j.b.i(0,B.b.l(j.c.a,"/")+"/players")).j(0,h)
-p=A.i(["id",h,"name",a,"photoUrl",b,"gamesTotal",0,"game1vs1",0,"game2vs2",0,"win1vs1",0,"win2vs2",0,"win1vs1_60",0,"win2vs2_60",0,"loose1vs1_60",0,"loose2vs2_60",0,"currentSeries_1vs1",0,"bestSeries_1vs1",0,"accepted",-5,"tournamentEnabled",!1,"lastgame",0,"tournamentNew",!1,"currentTournament",0,"win1vs1_tournaments",0,"win2vs2_tournaments",0,"pushNotification",!1,"pushNotificationTrophy",!1,"bestCurrentSeries_2vs2",0,"bestSeries_2vs2",0,"winRatio_1vs1",0,"winRatio_2vs2",0],n,m)
+p=A.i(["id",h,"name",a,"photoUrl",b,"elo",1000,"gamesTotal",0,"game1vs1",0,"game2vs2",0,"win1vs1",0,"win2vs2",0,"win1vs1_60",0,"win2vs2_60",0,"loose1vs1_60",0,"loose2vs2_60",0,"currentSeries_1vs1",0,"bestSeries_1vs1",0,"accepted",-5,"tournamentEnabled",!1,"lastgame",0,"tournamentNew",!1,"currentTournament",0,"win1vs1_tournaments",0,"win2vs2_tournaments",0,"pushNotification",!1,"pushNotificationTrophy",!1,"bestCurrentSeries_2vs2",0,"bestSeries_2vs2",0,"winRatio_1vs1",0,"winRatio_2vs2",0],n,m)
 k=A.l(!0)
 p=A.k(p)
 p.toString
@@ -108347,7 +108347,7 @@ while(true)switch(s){case 0:n={}
 m=p.c
 l=n
 s=3
-return A.x(A.b(m,m.gn().i(0,"anonymous")).j(0,"stats").b8(0),$async$dZ)
+return A.x(A.b(m,m.gn().i(0,"total")).j(0,"stats").b8(0),$async$dZ)
 case 3:l.a=c.P(0).h(0,"anonymousPlayersCount")
 o=A.h("player")
 s=4
