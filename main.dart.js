@@ -99991,7 +99991,7 @@ i*=0.01
 i=A.Y(A.a([A.ol("images/google_logo_s.png",B.hc,a1,a1),new A.a8(new A.R(i,i,i,i),A.k(A.f("continueWithGoogle"),c,c,c,c,c,c,c,B.a8.dB(B.p,$.bL*0.02),c,c,c),c)],g),B.e,B.i,B.d,c,c)
 f=$.bL
 e=A.n(c,f*0.005,c)
-if($.b_S()!==!0){f*=0.01
+if($.b_S()===!0){f*=0.01
 f=new A.Ir(!0,A.Y(A.a([A.ol("images/apple_logo_bw.png",B.aO,a1,a1),new A.a8(new A.R(f,f,f,f),A.k(A.f("continueWithApple"),c,c,c,c,c,c,c,B.a8.dB(B.p,$.bL*0.02),c,c,c),c)],g),B.e,B.i,B.d,c,c),new A.aHk(d),c)}else f=A.K(c,c,B.h,c,c,c,c,c,c,c,c,c,c,c)
 f=A.F(A.a([new A.Ir(!0,i,new A.aHl(d),c),e,f],g),B.e,B.o,B.d)
 e=$.bL
