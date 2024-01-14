@@ -94,9 +94,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "db65c167ea9d68e4a604278949265ece
 "icons/Icon-512.png": "01cd2ee8583cd89fffac9d270643c259",
 "icons/Icon-maskable-192.png": "8a06d6b8cd8dfb59d05a6a384c551bc8",
 "icons/Icon-maskable-512.png": "01cd2ee8583cd89fffac9d270643c259",
-"index.html": "f1acb7d77bd80ec4ac931d0acdd228e1",
-"/": "f1acb7d77bd80ec4ac931d0acdd228e1",
-"main.dart.js": "ae91ac796a3fb367bb50fbfdc5ac72fc",
+"index.html": "decb4a6fa4d476724db8319cd7bf019e",
+"/": "decb4a6fa4d476724db8319cd7bf019e",
+"main.dart.js": "636d4f68b7f7888da6f6a75c9717bdf5",
 "manifest.json": "b990fbf92dea206fe353ff3bc5199a2d",
 "splash/img/dark-1x.png": "12cf60eef266903d56506fe01956b6dd",
 "splash/img/dark-2x.png": "09ed88d5662024ab7a9dbdde6ffec52a",
@@ -108,7 +108,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "db65c167ea9d68e4a604278949265ece
 "splash/img/light-4x.png": "16a3c0e8e5890d18da7f2ab5ce47fdce",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "3e8699dd65a865ff991ec5b47a93643d",
-"version.json": "957d5de6b32d368c57b802db7699b727"};
+"version.json": "268a429ec6f57828ccf3387aea4b90ab"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
